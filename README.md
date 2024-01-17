@@ -16,4 +16,4 @@ Projeto ainda em produção, na fase inicial, mas a ideia é treinar os comandos
 
 <h3>Contatos:</h3>
 
-[Imgur](https://imgur.com/CPcurpN)
+![1](https://github.com/afonsopereira91/RPA-Python/assets/93684454/acf89f38-7a6b-4e8f-bc81-ce1e282871d9)
